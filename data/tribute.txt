@@ -1,0 +1,195 @@
+planet "Sessiliki Far"
+	tribute 7550
+		fleet "Korath Defense Sessiliki Far L"
+		threshold 1
+
+planet "Separa Tiklar"
+	tribute 8889
+		fleet "Korath Defense Separa Tiklar XL"
+		threshold 1
+
+planet "Safaresk Enlai"
+	tribute 15500
+		fleet "Korath Defense Safaresk Enlai XL"
+		threshold 1
+
+planet "Gresku Fodar"
+	tribute 7980
+		fleet "Korath Defense Gresku Fodar L"
+		threshold 1
+
+planet "Kessel Sepret"
+	tribute 9500
+		fleet "Korath Defense Kessel Sepret XL"
+		threshold 1
+
+planet "Septar Lorku"
+	tribute 7500
+		fleet "Korath Defense Septar Lorku M"
+		threshold 1
+
+fleet "Korath Defense Septar Lorku M"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 9
+		"Ra'at Ik 621" 5
+		"Rano'erek (Shunt)" 1
+		"Palavret" 8
+		"Palavret (Blaze)" 8
+		"Palavret (Ember Shunt)" 3
+		"Rano'erek" 5
+		"Korsmanath A'awoj" 1
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 4
+		"Ra'gru Ik 618 (Storm)" 5
+		"Palavret" 5
+		"Ra'at Ik 621 (Storm)" 5
+		"Rano'erek" 8
+		"Palavret (Blaze)" 7
+		"Korsmanath A'awoj (Special)" 1
+
+fleet "Korath Defense Sessiliki Far L"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 12
+		"Ra'at Ik 621" 7
+		"Rano'erek (Shunt)" 3
+		"Palavret" 9
+		"Palavret (Blaze)" 9
+		"Palavret (Ember Shunt)" 5
+		"Rano'erek" 7
+		"Korsmanath A'awoj" 1
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 6
+		"Ra'gru Ik 618 (Storm)" 5
+		"Palavret" 7
+		"Ra'at Ik 621 (Storm)" 6
+		"Rano'erek" 8
+		"Palavret (Blaze)" 8
+		"Korsmanath A'awoj (Special)" 1
+
+fleet "Korath Defense Gresku Fodar L"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 14
+		"Ra'at Ik 621" 8
+		"Rano'erek (Shunt)" 5
+		"Rano'erek (Heaver)"
+		"Palavret" 11
+		"Palavret (Blaze)" 11
+		"Palavret (Ember Shunt)" 5
+		"Rano'erek" 7
+		"Korsmanath A'awoj" 2
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 7
+		"Ra'gru Ik 618 (Storm)" 6
+		"Palavret" 9
+		"Ra'at Ik 621 (Storm)" 6
+		"Rano'erek" 9
+		"Palavret (Blaze)" 9
+		"Korsmanath A'awoj (Special)" 2
+
+fleet "Korath Defense Separa Tiklar XL"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 15
+		"Ra'at Ik 621" 8
+		"Rano'erek (Shunt)" 7
+		"Rano'erek (Heaver)"
+		"Palavret" 13
+		"Palavret (Blaze)" 11
+		"Palavret (Ember Shunt)" 6
+		"Rano'erek" 8
+		"Korsmanath A'awoj" 2
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 7
+		"Ra'gru Ik 618 (Storm)" 8
+		"Palavret" 11
+		"Ra'at Ik 621 (Storm)" 7
+		"Rano'erek" 9
+		"Palavret (Blaze)" 9
+		"Korsmanath A'awoj (Strike)"
+		"Korsmanath A'awoj (Special)"
+		"Korsmanath A'awoj (Blaze)"
+
+fleet "Korath Defense Kessel Sepret XL"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 17
+		"Ra'at Ik 621" 10
+		"Rano'erek (Shunt)" 8
+		"Rano'erek (Heaver)"
+		"Palavret" 15
+		"Palavret (Blaze)" 13
+		"Palavret (Ember Shunt)" 7
+		"Rano'erek" 8
+		"Korsmanath A'awoj" 3
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 8
+		"Ra'gru Ik 618 (Storm)" 9
+		"Palavret" 12
+		"Ra'at Ik 621 (Storm)" 7
+		"Rano'erek" 10
+		"Palavret (Blaze)" 9
+		"Korsmanath A'awoj (Strike)"
+		"Korsmanath A'awoj (Special)"
+		"Korsmanath A'awoj (Blaze)"
+
+fleet "Korath Defense Safaresk Enlai XL"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 1
+	personality
+		disables plunders opportunistic harvests
+	variant 1
+		"Ra'gru Ik 618" 25
+		"Ra'at Ik 621" 15
+		"Rano'erek (Shunt)" 12
+		"Rano'erek (Heaver)" 10
+		"Palavret" 15
+		"Palavret (Blaze)" 13
+		"Palavret (Ember Shunt)" 7
+		"Rano'erek" 8
+		"Korsmanath A'awoj" 3
+	variant 1
+		"Ra'gru Ik 618 (Grab)" 10
+		"Ra'gru Ik 618 (Storm)" 15
+		"Palavret" 12
+		"Ra'at Ik 621 (Storm)" 15
+		"Rano'erek" 14
+		"Palavret (Blaze)" 14
+		"Korsmanath A'awoj (Strike)" 3
+		"Korsmanath A'awoj (Special)"
+		"Korsmanath A'awoj (Blaze)" 2

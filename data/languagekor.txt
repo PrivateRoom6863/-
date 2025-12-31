@@ -1,0 +1,18 @@
+mission "Korath language"
+	invisible
+	landing
+	source "Shangri-La"
+	to offer
+		random < 90
+	on offer
+		conversation
+			`As you are walking through the spaceport, you found a market that is selling a device to translate. As you visit it, you found out that a market is selling a korath translation language you didn't know existed. You asked the seller how much is it, not to found out that it's actually 50k. You wonder how it will be benefit at the future. Proceed to buy it?`
+			choice
+				`	(Yes.)`
+				`	(Not right now.)`
+					defer
+			`	As you purchased the device, the seller thanked you for purchasing the item. You wonder if it's actually working or not.`
+				accept
+	on accept
+		payment -50000
+		set "language: Korath"		
